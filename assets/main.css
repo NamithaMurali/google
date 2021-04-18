@@ -1,0 +1,110 @@
+body {
+  margin: 0px;
+}
+header {
+  font-family: Arial;
+}
+main {
+  font-family: Arial;
+}
+.header_columns {
+  display: flex;
+  font-size: 13px;
+  justify-content: flex-end;
+  padding: 10px;
+}
+.header_ind_column {
+  padding: 5px;
+  text-decoration: none; /*for removing underlines*/
+  color: #111;
+}
+.google_icon {
+  width: 20px;
+  height: 20px;
+  margin: 0px 10px;
+}
+.sign_in {
+  width: 70px;
+  background-color: #3d89e0;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  height: 12px;
+  border-radius: 5px;
+}
+main {
+  text-align: center;
+}
+.body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.google_logo {
+  height: 120px;
+  width: 350px;
+  position: relative;
+  margin-top: 50px;
+}
+.textarea {
+  height: 35px;
+  width: 560px;
+  border-radius: 25px;
+  border: 1px solid #dfe1e5;
+}
+.main_columns {
+  display: flex;
+  justify-content: center;
+}
+.main_ind_column {
+  padding: 10px;
+  margin: 30px 5px 14px;
+  font-size: 13px;
+  /* background-color: #f7f6f2; */
+  background-color: #f7faf8;
+  text-decoration: none;
+  color: #111;
+}
+.lang_columns {
+  display: flex;
+  justify-content: center;
+}
+.lang {
+  padding: 5px;
+
+  font-size: 12px;
+  text-decoration: none;
+  margin-top: 7px;
+}
+.languages {
+  font-size: 13px;
+  text-decoration: none;
+}
+.footer_data {
+  /* background-color: #f7f6f2; */
+  background-color: #eff1f5;
+  /* background-color: rgba(0,0,0,.54); */
+  margin-top: 188px;
+  font-family: Arial;
+}
+.india {
+  font-size: 15px;
+  padding: 13px 25px;
+  color: grey;
+  border-bottom: 1px solid #dfe1e5;
+}
+.more_info {
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+
+  height: 28px;
+}
+.info {
+  padding: 0px 15px;
+  color: grey;
+  font-size: 13px;
+  text-decoration: none;
+}
